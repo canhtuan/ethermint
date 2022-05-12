@@ -18,7 +18,7 @@ const (
 
 	// BaseDenomUnit defines the base denomination unit for Photons.
 	// 1 photon = 1x10^{BaseDenomUnit} aphoton
-	BaseDenomUnit = 18
+	BaseDenomUnit = 6
 
 	// DefaultGasPrice is default gas price for evm transactions
 	DefaultGasPrice = 20
